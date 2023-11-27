@@ -15,16 +15,6 @@ public class HelloWorld {
     System.out.println("Hello, wed......................");
     System.out.println("Hello, wed......................");
     System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
-    System.out.println("Hello, wed......................");
+   
   }
 }
